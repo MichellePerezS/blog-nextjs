@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Blog Personal con Next.js**
 
-## Getting Started
+Este proyecto es un blog personal desarrollado con **Next.js**, diseñado para ser simple, responsivo y fácil de navegar. Incluye rutas dinámicas para gestionar artículos y un diseño moderno adaptado a diferentes tamaños de pantalla.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## **Características del Blog**
+- **Framework:** Construido con **Next.js** (App Router).
+- **Rutas Dinámicas:** Los artículos se gestionan mediante rutas dinámicas para facilitar la escalabilidad.
+- **Diseño Responsivo:** Adaptado para dispositivos móviles, tablets y pantallas grandes.
+- **Estilo Moderno:** Usando un archivo global `globals.css`.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## **Requisitos Previos**
+Antes de comenzar, asegúrate de tener instalado:
+- **Node.js** (versión 16 o superior): [Descargar Node.js](https://nodejs.org/)
+- **npm** (instalado junto con Node.js).
+- **Git**: [Descargar Git](https://git-scm.com/).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## **Cómo Clonar y Ejecutar el Proyecto**
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clona este repositorio:**
+   ```bash
+   git clone https://github.com/MichellePerezS/blog-nextjs.git
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. **Navega al directorio del proyecto:**
+   ```bash
+   cd blog-nextjs
+3. **Instala las dependencias necesarias:**
+   ```bash
+   npm install
+4. **Inicia el servidor de desarrollo:**
+   ```bash
+   npm run dev
+5. **Abre el proyecto en tu navegador:**
+   URL: http://localhost:3000
+   
