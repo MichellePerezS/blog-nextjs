@@ -38,3 +38,43 @@ Antes de comenzar, asegúrate de tener instalado:
 5. **Abre el proyecto en tu navegador:**
    URL: http://localhost:3000
    
+---
+
+## **Tecnologías Utilizadas**
+
+- **Next.js:** Framework React para construir aplicaciones web rápidas y escalables.
+- **CSS:** Diseño responsivo y moderno utilizando estilos globales.
+- **React:** Lógica para manejar rutas dinámicas y componentes.
+- **HTML5:** Construcción de las páginas dinámicas.
+- **JavaScript (ES6):** Usado para toda la lógica del proyecto.
+
+---
+
+## **Funciones Principales**
+
+1. **Página Principal:**
+   - Muestra un listado de artículos con imágenes, títulos y descripciones.
+   - Cada artículo incluye un enlace a su página individual.
+
+2. **Rutas Dinámicas:**
+   - Cada artículo tiene una página dinámica generada según su `id`.
+
+3. **Diseño Responsivo:**
+   - Implementado con CSS para adaptarse a dispositivos móviles, tablets y pantallas grandes.
+
+4. **Botón de Regreso:**
+   - En cada artículo, se incluye un botón para volver a la página principal.
+
+---
+
+## **Autor**
+
+**Michelle Pérez**  
+- [GitHub](https://github.com/MichellePerezS)  
+- [LinkedIn](https://linkedin.com/in/MichellePerezS)
+
+---
+
+## **Licencia**
+
+Este proyecto está licenciado bajo la **Licencia MIT**. Puedes usar, modificar y distribuir el código libremente, respetando las condiciones de la licencia.
