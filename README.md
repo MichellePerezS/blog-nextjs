@@ -72,6 +72,8 @@ Antes de comenzar, asegúrate de tener instalado:
 **Michelle Pérez**  
 - [GitHub](https://github.com/MichellePerezS)  
 - [LinkedIn](https://linkedin.com/in/MichellePerezS)
+- [Tutorial YouTube](https://youtu.be/9gkmwoY5Hhg)
+- [Jupyter NoteBook](https://colab.research.google.com/drive/1ZBu3S_D0qwJhiz50OJvNbSaWg9pxf0lE?usp=sharing)
 
 ---
 
